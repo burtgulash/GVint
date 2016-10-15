@@ -1,0 +1,7 @@
+[package]
+name = "gvint"
+version = "0.1.0"
+authors = ["TM <burtgulas@gmail.com>"]
+
+[dependencies]
+rand = "*"
